@@ -1,0 +1,20 @@
+
+h2{
+	text-align: center;
+} 
+
+.queryText p{
+	padding-left: 350px; margin-bottom: 5px;
+}
+
+.checkBox p{
+	padding-left: 370px; margin-top: 5px;
+}
+
+.buttonResult p{
+	text-align: center;
+}
+
+.buttonResult input{
+	padding: 10px;
+}
